@@ -4,6 +4,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew install git
 brew install tree
+brew install wget
 
 brew install --cask iterm2
 brew install --cask google-chrome
