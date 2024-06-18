@@ -1,6 +1,6 @@
 brew install python
 brew install miniconda
-conda init
+conda init zsh
 
 echo "alias pip=pip3"
 echo "alias python=python3"
