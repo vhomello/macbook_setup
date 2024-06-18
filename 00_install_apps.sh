@@ -2,9 +2,11 @@
 (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/vho/.bash_profile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
-brew install --cask iterm2
 brew install git
+brew install tree
+
+brew install --cask iterm2
 brew install --cask google-chrome
 brew install --cask visual-studio-code
 brew install --cask rectangle
-brew install tree
+brew install --cask whatsapp
