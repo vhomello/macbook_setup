@@ -5,9 +5,11 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 brew install git
 brew install tree
 brew install wget
+brew install fzf
 
 brew install --cask iterm2
 brew install --cask google-chrome
 brew install --cask visual-studio-code
 brew install --cask rectangle
 brew install --cask whatsapp
+brew install --cask zoom
