@@ -18,3 +18,4 @@ brew install --cask visual-studio-code
 brew install --cask rectangle
 brew install --cask whatsapp
 brew install --cask zoom
+brew install --cask sublime-text
