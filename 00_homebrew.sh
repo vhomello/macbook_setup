@@ -7,7 +7,7 @@ brew install tree
 brew install wget
 
 brew install fzf
-echo source <(fzf --zsh) >> ~/.zshrc
+echo (fzf --zsh) >> ~/.zshrc
 
 brew install java
 sudo ln -sfn /opt/homebrew/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk
