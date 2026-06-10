@@ -5,6 +5,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 brew install git
 brew install tree
 brew install wget
+brew install gh
 
 brew install fzf
 echo "source <(fzf --zsh)" >> ~/.zshrc
@@ -16,6 +17,5 @@ brew install --cask iterm2
 brew install --cask google-chrome
 brew install --cask visual-studio-code
 brew install --cask rectangle
-brew install --cask whatsapp
-brew install --cask zoom
-brew install --cask sublime-text
+brew install --cask claude-code
+brew install --cask antigravity-cli
